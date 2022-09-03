@@ -15,9 +15,9 @@
 ## 🎯Contributions
 | PR | Description | Status |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
-| [#127](https://github.com/tensorflow/decision-forests/pull/127) | [Added Kaggle example - Intermediate classification](src/kaggle_intermediate_example_classification.ipynb)| Ready to merge |
-| [#128](https://github.com/tensorflow/decision-forests/pull/128) | [Added Kaggle example - Beginner classification](src/kaggle_beginner_example_classification.ipynb) | Ready to merge |
-| [#](https://github.com/tensorflow/decision-forests/pull/) | [Added Kaggle example - Beginner regression](src/kaggle_beginner_example_regression.ipynb)  | - |
+| [#127](https://github.com/tensorflow/decision-forests/pull/127) | [Added Kaggle example - Intermediate classification](src/kaggle_intermediate_example_classification.ipynb)&nbsp; <a href="https://colab.research.google.com/github/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow/blob/main/src/kaggle_intermediate_example_classification.ipynb"><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height="15" /></a>| Ready to merge |
+| [#128](https://github.com/tensorflow/decision-forests/pull/128) | [Added Kaggle example - Beginner classification](src/kaggle_beginner_example_classification.ipynb)&nbsp; <a href="https://colab.research.google.com/github/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow/blob/main/src/kaggle_beginner_example_classification.ipynb"><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height="15" /></a> | Ready to merge |
+| [#](https://github.com/tensorflow/decision-forests/pull/) | [Added Kaggle example - Beginner regression](src/kaggle_beginner_example_regression.ipynb)&nbsp; <a href="https://colab.research.google.com/github/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow/blob/main/src/kaggle_beginner_example_regression.ipynb"><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height="15" /></a> | - |
 | [#](https://github.com/tensorflow/decision-forests/pull/) | [Added Kaggle example - Intermediate regression](src) | - |
 
 
@@ -35,6 +35,6 @@ I thank her for the constant guidance, code reviews, timely feedback, help and m
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vanshxsharma)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vanshsharma10)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://discuss.tensorflow.org/u/vansh_sharma/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsnsharma@gmail.com)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsnsharma@gmail.com)
 
 <br><br>[![MIT](https://img.shields.io/github/license/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow?style=for-the-badge)](https://github.com/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow/blob/main/LICENSE)
