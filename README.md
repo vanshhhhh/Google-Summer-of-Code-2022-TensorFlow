@@ -13,12 +13,12 @@
 * **Mentor**: [Miri B. (Hyman) Raskasky](https://www.linkedin.com/in/miri-b-raskasky-b42969119/)
 
 ## 🎯Contributions
-| Link | Description | Status |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
-| [PR #127](https://github.com/tensorflow/decision-forests/pull/127) | [Kaggle example - Intermediate classification](src/kaggle_intermediate_example_classification.ipynb)&nbsp; <a href="https://colab.research.google.com/github/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow/blob/main/src/kaggle_intermediate_example_classification.ipynb"><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height="15" /></a>| Completed |
-| [PR #128](https://github.com/tensorflow/decision-forests/pull/128) | [Kaggle example - Beginner classification](src/kaggle_beginner_example_classification.ipynb)&nbsp; <a href="https://colab.research.google.com/github/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow/blob/main/src/kaggle_beginner_example_classification.ipynb"><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height="15" /></a> | Completed |
-| [Notebook](https://www.kaggle.com/code/vanshsharma10/gsoc-2022-house-price-prediction-using-tf-df/) | [Kaggle example - Beginner regression](src/kaggle_beginner_example_regression.ipynb)&nbsp; <a href="https://www.kaggle.com/code/vanshsharma10/gsoc-2022-house-price-prediction-using-tf-df/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="15" /></a> | Completed |
-| [Notebook](https://www.kaggle.com/code/vanshsharma10/gsoc-2022-tps-september-using-tf-df/) | [Kaggle example - Intermediate regression](src/kaggle_intermediate_example_regression.ipynb)&nbsp; <a href="https://www.kaggle.com/code/vanshsharma10/gsoc-2022-tps-september-using-tf-df/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="15" /></a> | Completed |
+| Description | Status |
+------------- | --------- |
+| [Kaggle example - Intermediate classification](src/kaggle_intermediate_example_classification.ipynb)&nbsp; <a href="https://colab.research.google.com/github/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow/blob/main/src/kaggle_intermediate_example_classification.ipynb"><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height="15" /></a>| Completed |
+| [Kaggle example - Beginner classification](src/kaggle_beginner_example_classification.ipynb)&nbsp; <a href="https://colab.research.google.com/github/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow/blob/main/src/kaggle_beginner_example_classification.ipynb"><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height="15" /></a> | Completed |
+| [Kaggle example - Beginner regression](src/kaggle_beginner_example_regression.ipynb)&nbsp; <a href="https://www.kaggle.com/code/vanshsharma10/gsoc-2022-house-price-prediction-using-tf-df/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="15" /></a> | Completed |
+| [Kaggle example - Intermediate regression](src/kaggle_intermediate_example_regression.ipynb)&nbsp; <a href="https://www.kaggle.com/code/vanshsharma10/gsoc-2022-tps-september-using-tf-df/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="15" /></a> | Completed |
 
 <br>Contributions apart from my project:
 | Link | Description |
