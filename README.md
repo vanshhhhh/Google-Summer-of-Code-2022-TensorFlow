@@ -8,7 +8,7 @@
 
 * **Year**: 2022
 * **Organisation**: [TensorFlow](https://www.tensorflow.org/)
-* **Project Title**: [Develop Kaggle examples for TensorFlow Decision Forests](https://summerofcode.withgoogle.com/programs/2022/projects/umFX98b3)
+* **Project Title**: [Develop Kaggle examples for TensorFlow Decision Forests](https://summerofcode.withgoogle.com/archive/2022/projects/umFX98b3)
 * **Project Description**: Today, many Kaggle competitions are dominated by libraries such as LightGBM and XGBoost, which provide high-performance results on a variety of datasets. TensorFlow Decision Forests (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models. In this project, I have introduced a series of beginner and intermediate examples that demonstrates the use of TensorFlow Decision Forests on various datasets.
 * **Mentor**: [Miri B. (Hyman) Raskasky](https://www.linkedin.com/in/miri-b-raskasky-b42969119/)
 
