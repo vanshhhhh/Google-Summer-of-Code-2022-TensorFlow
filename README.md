@@ -38,7 +38,7 @@ I thank her for the constant guidance, code reviews, timely feedback, help and m
 [![portfolio](https://img.shields.io/badge/-website-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAbwAAAG8B8aLcQwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAD5SURBVDiNpdOxagJREAXQM9qELZQgItomkCJ/YGMppLVNI+TDBLt8RmIZLBdSpkmVyi7VS+EzrKurkgw8eDP3zoWZy0RKyX+idY4QEYOIuPqzAJ7xeJFARAwjYlLj3OMz45OIGO6hKSV5D32UWFRqPSTc5HyROf1fTga6WOMVRUVgjG+0c15kzhrdnQEFVnhDZ9ecwTnKWq2TuSsULSxxjWlKaVOb/w7vtZE3mOae5TkXDgSOxakRSsxPjdC4RLRtFziuNB8usclG3Npa2KtwFo7ZWCGMMMv/B3zV8BlGe7VqUiM/4aUJ371ousZ8QIOU0scpBxoFLo0fgbLtDK2carMAAAAASUVORK5CYII=&logoColor=white)](https://vanshhhhh.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsharma10/)
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vanshsharma10)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vanshxsharma)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vansh_s10)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vanshsharma10)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://discuss.tensorflow.org/u/vansh_sharma/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshsnsharma@gmail.com)
